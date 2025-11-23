@@ -1,0 +1,5 @@
+Player URL:
+https://shadowrrb.github.io/player/?list=https://raw.githubusercontent.com/shadowrrb/63df5e566f832cff/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/shadowrrb/63df5e566f832cff/refs/heads/master/github_master.m3u8
